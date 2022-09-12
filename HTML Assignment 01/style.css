@@ -12,8 +12,8 @@
     display: flex;
     justify-content: center;
 }
-.container2{
-    width: 40%;
+.container2 ul{
+    width: 100%;
     display: flex;
     justify-content:space-evenly;
     padding:10px;
@@ -30,7 +30,9 @@ justify-content: center;
 }
 h1{
   top:50%;
-  position: relative;
+  position:relative;
 }
-
-    
+.container2 ul li{
+  text-decoration: none;
+  list-style: none;
+} 
