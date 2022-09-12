@@ -13,8 +13,10 @@
     justify-content: center;
 }
 .container2{
-    width: 32%;
-    justify-content: space-around;
+    width: 40%;
+    display: flex;
+    justify-content:space-evenly;
+    padding:10px;
 }
 .about_section{
     background-color: aqua;
